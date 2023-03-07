@@ -3,14 +3,14 @@
 ### 📑Explicação
 
 Projeto em desenvolvimento focado nas habilidades Full Stack, utilização no Front-end biblioteca ReactJs, 
-Hooks useStates, podendo calcular sua altura e seu peso, é saber se seu IMC
+Hooks useStates, podendo calcular sua altura e seu peso, é saber se seu IMC, calculadora de Imc 
 <br>
 <br>
 
 <hr>
 
 ###  🚀 Aplicação Front-end 
-<img src="https://user-images.githubusercontent.com/97356148/217619627-2932141a-d751-4032-982a-526647148412.png" width="640px" >
+<img src="https://user-images.githubusercontent.com/97356148/223532633-9138d77a-db17-47f2-a2d4-409711771c19.png" width="840px" >
 > Imagem projeto
 <br>
 
